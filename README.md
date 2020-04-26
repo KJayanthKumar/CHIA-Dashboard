@@ -2,7 +2,7 @@
 CHIA-Dashboard: C#, MVC, Javascript, Nunit
 Capabilities of CHIA Dashboard component:
 • Login Page ---->LDAP 
-• Create a web application that would display the list of CHIA based on aging and
+• A web application that would display the list of CHIA details based on aging and
 perform following operations:
 
 The option to filter the list based on Solution
