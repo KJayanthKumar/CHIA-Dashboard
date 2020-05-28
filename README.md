@@ -14,9 +14,9 @@ Technologies / languages / DB to be used
 • NUnit for unit testing in C#.
 • Rest -API’s
 
-Tools to be used
+Tools used
 • Visual Studio for C#
-. IIS 
+. IIS for hosting
 
 Software Versions to be used for development
 • .Net 4.6.2
